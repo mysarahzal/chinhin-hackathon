@@ -77,14 +77,14 @@ export default function Login() {
               </Button>
             </form>
 
-            <div className="mt-6 p-3 rounded-md bg-muted">
+            {/* <div className="mt-6 p-3 rounded-md bg-muted">
               <p className="text-xs font-medium text-muted-foreground mb-2">Demo Accounts</p>
               <div className="space-y-1 text-xs text-muted-foreground">
                 <p><span className="font-medium text-foreground">Sales Manager:</span> sarah@company.com</p>
                 <p><span className="font-medium text-foreground">Approver:</span> michael@company.com</p>
                 <p className="text-muted-foreground/70">Any password works</p>
               </div>
-            </div>
+            </div> */}
           </CardContent>
         </Card>
       </div>
