@@ -1,0 +1,9 @@
+sku,current_stock,incoming_stock,avg_3m,avg_6m,lead_time_months,failure_rate_pct
+Electric Kettle KX900,150,50,100,90,2,12
+Steel Pipe SP200,500,200,300,280,3,5
+LED Panel LP50,80,0,60,55,1.5,9
+Hydraulic Pump HP10,20,10,45,40,4,3
+Ceramic Tile CT300,1000,500,200,180,2,2
+Motor Bearing MB88,30,5,50,48,3,15
+Solar Inverter SI400,10,0,25,20,5,7
+Cable Drum CD600,300,100,150,140,2.5,6
